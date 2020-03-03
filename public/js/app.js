@@ -53669,8 +53669,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/yuma/vue-laravel-spa/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /Users/yuma/vue-laravel-spa/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/yuma/VueLaravelSpa/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Users/yuma/VueLaravelSpa/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
