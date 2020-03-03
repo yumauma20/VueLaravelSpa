@@ -13,7 +13,7 @@
             </tr>
             </thead>
             <tbody>
-            <tr v-for="task in tasks">
+            <tr v-for="(task, key) in tasks" :key=key>
                 <th scope="row">{{ task.id }}</th>
                 <td>{{ task.title }}</td>
                 <td>{{ task.content }}</td>
